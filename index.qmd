@@ -3,16 +3,13 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/pfp.png
 ---
 
 :::{#me}
 
-## Goals
+## Hi! I am a first-year Ph.D. student of Public Administration at the department of Public Policy, Analysis and Management at CUPPA, UIC. With a master's degree in applied economics, I aim to contribute innovative solutions to contemporary public administration challenges and emerge as a scholar looking to make a positive impact on society through collaboration with peers and faculty and dissemination of research findings.
 
-## Education
-
-## Experience
 
 :::
 
