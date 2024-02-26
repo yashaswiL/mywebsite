@@ -3,14 +3,14 @@ project:
   output-dir: docs
   
 website:
-  title: "My Website"
+  title: "Yashaswi Lal"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - about.qmd
     tools:
-      - icon: twitter
+      - icon: LinkedIN
         href: https://twitter.com/
       - icon: github
         href: https://github.com/yashaswiL/mywebsite
@@ -20,7 +20,7 @@ website:
 
 format:
   html:
-    theme: quartz
+    theme: yeti
     toc: true
 
 editor: source
