@@ -20,7 +20,9 @@ website:
 
 format:
   html:
-    theme: yeti
+    theme: 
+      light: yeti
+      dark: solar
     toc: true
 
 editor: source
